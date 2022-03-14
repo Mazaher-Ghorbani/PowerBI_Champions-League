@@ -9,6 +9,6 @@ Let's data talk!
 * Design (powerpoint)
 ***
 ## General info
-* ChampionsLeague .pbix file: Power BI file with all data preparartion and visuals.
-* Messi_VS_Ronaldo.pdf file: View dashboard in pdf format.
+* ChampionsLeague.pbix file: Power BI file with all data preparartion and visuals.
+* ChampionsLeague.pdf file: View dashboard in pdf format.
 * Theme.pptx file: Powerpoint file used to design background.
