@@ -1,6 +1,6 @@
 # PowerBI_Champions-League
 ## Introduction
-APIs help you to get data easily. The hard part is to shape and visualize it the way you want. If you want to learn and do lots of ETL tasks in Power Query as well as beautiful visualization, download the .pbix file and enjoy!<br/>
+APIs help you to get data easily. The hard part is to shape and visualize it the way you want. If you want to learn and do lots of ETL tasks in Power Query as well as create beautiful visualization, download the .pbix file and enjoy!<br/>
 Let's data talk!
 ***
 ## Technologies
